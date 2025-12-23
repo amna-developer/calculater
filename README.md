@@ -1,7 +1,8 @@
-📱 Calculator
-A vibrant, fun, and fully responsive calculator built with HTML, CSS, and JavaScript. Instead of boring standard buttons, this calculator uses expressive emojis to bring your math to life!
+<b>📱 Calculator
+A vibrant, fun, and fully responsive calculator built with HTML, CSS, and JavaScript. Instead of boring standard buttons, this calculator uses expressive emojis to bring your math to life!</b>
 
-✨ Features
+<b>✨ Features </b>
+
 Fun UI: Replaces standard text with colorful emojis.
 
 Fully Responsive: Works perfectly on desktops, tablets, and mobile phones.
